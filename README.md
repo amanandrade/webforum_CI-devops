@@ -8,4 +8,4 @@ A website template in java used for CI/CD training purpose.
 - Automated test, build and deploy using Jenkins
 - Automated deploy using Vagrant
 - Test pipeline imported from GitLab 
-- Test pipeline on GitHub *(database is not public)*
+- Test pipeline on GitHub
