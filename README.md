@@ -7,5 +7,4 @@ A website template in java used for CI/CD training purpose.
 - Unit tests setup with JUnit
 - Automated test, build and deploy using Jenkins
 - Automated deploy using Vagrant
-- Test pipeline imported from GitLab 
-- Test pipeline on GitHub
+- Test pipeline on GitLab *(under development)*
